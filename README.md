@@ -1,5 +1,5 @@
 # Hola, I am Jay Akbari
-# 💫About Me :<br>🔭 I’m currently working on Crown Infotech.<br>🌱 I’m currently learning more about flutter.<br>🤔 I’m looking for help with flutter documentation.
+# 💫About Me :<br>🔭 I’m currently work at Simform Solutions.<br>🌱 I’m currently learning more about flutter.<br>🤔 I’m looking for help with flutter documentation.
 
 
 # 💻 Tech Stack:
